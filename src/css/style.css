@@ -151,3 +151,24 @@ top: -5px;
     75%{background-position: 49% 0%}
     100%{background-position:0% 52%}
 }
+@media(max-width:900px){
+    main{
+        display: flex;
+        flex-direction: column;
+    }
+    .content-img{
+        width: 100vh;
+    }
+    .containerlogin{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 60vh;
+        padding: 5%;
+        margin: auto;
+    }
+    .container{
+        width: 100%;
+    }
+
+}
