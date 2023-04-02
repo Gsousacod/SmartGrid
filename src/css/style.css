@@ -33,8 +33,8 @@ main{
 form{
     text-align: center;
     color:#6717d4;
-    height: 75vh;
-    width: 50vh;
+    height: 85vh;
+    width: 60vh;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
